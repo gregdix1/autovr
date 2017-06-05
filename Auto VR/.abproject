@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Auto VR",
+  "ProjectGuid": "5d1949d2-dd18-46e0-976f-091e129f10c7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.AutoVR",
+  "DisplayName": "Auto VR",
+  "Author": "",
+  "Description": "Auto VR",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a08692b1-ee0c-4677-afb4-50d3df445660}",
+  "WP8ProductID": "{4953d10b-a070-47a3-8242-484146c140b1}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.AutoVR",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
